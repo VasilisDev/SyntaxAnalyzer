@@ -1,0 +1,17 @@
+1: Identifier found: x
+1: Integer found: 9
+line 1: SUCCESSFUL 'assignment', 
+2: Identifier found: x
+2: Integer found: 3
+line 2: SUCCESSFUL 'if' syntax, 
+3: Identifier found: x
+3: Integer found: 10
+lsine 3: SUCCESSFUL 'while' syntax, 
+4: Identifier found: x
+4: Integer found: 3
+line 4: SUCCESSFUL 'while' syntax, 
+5: Identifier found: x
+line 5: SUCCESSFUL 'type' syntax, 
+6: String found: "x"
+line 6: SUCCESSFUL 'print' syntax, 
+#END OF FILE

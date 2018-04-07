@@ -1,0 +1,7 @@
+x=9;
+if(x<3)
+while(x<10)
+while (x!=3)
+type(x);
+print("x");
+
