@@ -4,7 +4,7 @@ A simple syntax analyzer of mini python language.
 <h1>How to run it</h1>
 
  <p>To Run this syntax analyzer and check the validity of this grammar follow the below commands.
-  Open a terminal form a UNIX os and cd into project folder.</p>
+  Open a terminal in a UNIX os and cd into project folder.</p>
  
 
   1. First of all build all the files.
