@@ -8,11 +8,8 @@ A simple syntax analyzer of mini python language.
  
  ```
  1. First of all build all the files.
-  $ make
+   $ make
   
- 2. After that test the grammar validity.Open the input.txt file and write a code that follows the syntax of this grammar and hit the below command:
- $ ./parser input.txt output.txt
- 
-   This command will make an output file with the success syntax of your code and the all the lexical or syntax errors.
- 
+ 2. After that test the grammar validity.Open the input.txt file and write a code that follows the syntax of this grammar.This command will make an output file with the success syntax of your code and the all the lexical or syntax errors.Hit the below command all that i mentioned:
+   $ ./parser input.txt output.txt
  ```
