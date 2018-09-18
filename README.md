@@ -16,3 +16,18 @@ A simple syntax analyzer of mini python language.
  ```
    $ ./parser input.txt output.txt
  ```
+
+<h2>Sample of Grammar</h2>
+
+<dl>
+<dt>input.txt<dt>
+  <dd><p align="center">
+  <img src="screenshots/1.jpg" >
+</p><dd>
+ 
+ <dt>output.txt<dt>
+  <dd><p align="center">
+  <img src="screenshots/2.jpg" >
+</p><dd>
+ 
+ </dl>
