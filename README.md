@@ -7,12 +7,12 @@ A simple syntax analyzer of mini python language.
   Open a terminal form a UNIX os and cd into project folder.</p>
  
 
- <p>1. First of all build all the files.<p><hr>
+  1. First of all build all the files.
   ```
    $ make
   ```
   
- <p>2. After that test the grammar validity.Open the input.txt file and write a code that follows the syntax of this grammar.This command will make an output file with the success syntax of your code and the all the lexical or syntax errors.Hit the below command all that i mentioned:<p><hr>
+  2. After that test the grammar validity.Open the input.txt file and write a code that follows the syntax of this grammar.This command will make an output file with the success syntax of your code and the all the lexical or syntax errors.Hit the below command all that i mentioned:
  ```
    $ ./parser input.txt output.txt
  ```
